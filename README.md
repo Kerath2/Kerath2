@@ -8,7 +8,7 @@
 <br>
 
 <samp>
-Computer Engineering student · AI & Cloud Engineer Intern @ IBM  
+Computer Engineering · AI & Automation Engineer  @ IBM  
 Focused on building scalable systems, intelligent automation, and real-world AI solutions.
 </samp>
 
