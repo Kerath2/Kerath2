@@ -1,5 +1,3 @@
-<h2>⚙️ Engineering · AI · Cloud</h2>
-
 <samp>
 <h2>Welcome</h2>
 <p>I'm <strong>Gerardo Tacay Terrazos</strong></p>
